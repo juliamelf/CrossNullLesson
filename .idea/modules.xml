@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrossNullLesson.iml" filepath="$PROJECT_DIR$/.idea/modules/CrossNullLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrossNullLesson_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CrossNullLesson_main.iml" group="CrossNullLesson" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrossNullLesson_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CrossNullLesson_test.iml" group="CrossNullLesson" />
+    </modules>
+  </component>
+</project>
